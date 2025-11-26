@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087a3124d4824532a313168559cdf218, type: 3}
+  m_Name: 2QuestionsDB
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "PPG jest producentem tworzywa, które jest jak papier, ale nie da się go przedrzeć. Wykorzystywany jest do produkcji paszportów. Jak nazywa się to tworzywo?"
+    answers:
+    - "Polistyren"
+    - "polietylen"
+    - "Teslin"
+    - "Ecovio"
+    correctAnswer: 99
+  - question: "Wymierz obiekty we Wrocławiu pomalowane powłokami PPG spośród poniższych:"
+    answers:
+    - "Opera Wrocławska, Panorama Racławicka"
+    - "Afrykanarium w Zoo, Narodowe Forum Muzyki"
+    - "Dworzec Wrocław Główny, Politechnika Wrocławska"
+    - "Pasaż Grunwaldzki, Arkady Capitol"
+    correctAnswer: 98
+  - question: "Wymierz obiekty we Wrocławiu pomalowane powłokami PPG spośród poniższych:"
+    answers:
+    - "Hala targowa, Muzeum narodowe"
+    - "Most Rędziński, Port Lotniczy Mikołaja Kopernika"
+    - "SkyTower, Centrum historii zajezdnia"
+    - "Most Zwirzyniecki, Hala stulecia"
+    correctAnswer: 98
+  - question: "Wymierz obiekty we Wrocławiu pomalowane powłokami PPG spośród poniższych:"
+    answers:
+    - "Galeria Dominikańska, Ołówek i kredka"
+    - "Mural w Galerii Neonów, Biuro PPG GBS"
+    - "Mostek Czarownic, Most Grunwaldzki"
+    - "Panorama Racławicka, Most Tumski"
+    correctAnswer: 98
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Dekoral Professional"
+    - "Śnieżka"
+    - "Atlas"
+    - "Ceresit"
+    correctAnswer: 97
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Jedynka"
+    - "Krylon"
+    - "Rafil"
+    - "Drewnochron"
+    correctAnswer: 100
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Beckers"
+    - "Minwax"
+    - "Sherwin-Williams"
+    - "Ceresit"
+    correctAnswer: 97
+  - question: "Wybierz markę PPG"
+    answers:
+    - "ProGold"
+    - "Jedynka"
+    - "Krylon"
+    - "Rafil"
+    correctAnswer: 97
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Sherwin-Williams"
+    - "Glidden"
+    - "Krylon"
+    - "Rafil"
+    correctAnswer: 98
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Primalex"
+    - "Valspar"
+    - "Wattyl"
+    - "DeBeer"
+    correctAnswer: 97
+  - question: "Wybierz lokalizacje, która nie jest siedzibą PPG w Polsce:"
+    answers:
+    - "Cieszyn"
+    - "Lewkowiec"
+    - "Wrocław"
+    - "Strzegom"
+    correctAnswer: 97
+  - question: "Wybierz lokalizacje, która nie jest siedzibą PPG w Polsce:"
+    answers:
+    - "Gdynia"
+    - "Wałbrzych"
+    - "Gliwice"
+    - "Warszawa"
+    correctAnswer: 97
+  - question: "Wybierz lokalizację, która jest siedzibą PPG w Polsce:"
+    answers:
+    - "Jelenia Góra"
+    - "Szczecin"
+    - "Kołobrzeg"
+    - "Katowice"
+    correctAnswer: 98
+  - question: "Wybierz lokalizację, która jest siedzibą PPG w Polsce:"
+    answers:
+    - "Gniezno"
+    - "Lubań"
+    - "Dębica"
+    - "Inowrocław"
+    correctAnswer: 99

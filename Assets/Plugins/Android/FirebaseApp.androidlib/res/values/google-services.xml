@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">334526042981</string>
+  <string name="google_storage_bucket" translatable="false">pim-app-96b8d.firebasestorage.app</string>
+  <string name="project_id" translatable="false">pim-app-96b8d</string>
+  <string name="google_api_key" translatable="false">AIzaSyBSjbCugAd3sXrJaJbggV5YttzVrSmanqI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBSjbCugAd3sXrJaJbggV5YttzVrSmanqI</string>
+  <string name="google_app_id" translatable="false">1:334526042981:android:c554be44d09013c899078c</string>
+  <string name="default_android_client_id" translatable="false">334526042981-9k6uggkk34fim2op7t1u2s47p17scatu.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">334526042981-573293innsma2kim638u6gk70b38metr.apps.googleusercontent.com</string>
+</resources>

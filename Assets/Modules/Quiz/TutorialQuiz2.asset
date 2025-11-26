@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639da93e33a1d20448f1a3521e19b81c, type: 3}
+  m_Name: TutorialQuiz2
+  m_EditorClassIdentifier: 
+  sceneName: quiz2
+  sceneNameHeader: PPG Quiz
+  content: "<align=center>\r\n<size=100%><color=orange>Welcome to the PPG quiz!</size></color>\r\n<size=90%>To
+    get started, choose one of the answers to each question asked.</size>\r\n<size=90%>Remember,
+    only <b> one answer </b>is correct.</size>\r\n<size=90%>If your choice is correct,
+    a  <sprite=\"PopFX\" index=\"0\" color=\"#00FF00\"> will appear on the selected
+    answer, and in the case of an incorrect answer \u2013 a   <sprite=\"PopFX\" index=\"1\"
+    color=\"#FF0000\">.</size>\r\n<size=90%>After each answer, you will automatically
+    proceed to the next question, and your goal is to provide the correct answers
+    and score as many points as possible.</size>\r\n<size=90%>At the end of the quiz,
+    you will receive a summary of your results.</size>\r\n<size=95%><i><color=orange>Good
+    luck and have fun!</i></size>"

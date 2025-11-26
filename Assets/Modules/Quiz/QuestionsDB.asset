@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087a3124d4824532a313168559cdf218, type: 3}
+  m_Name: QuestionsDB
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "W kt\xF3rym roku powsta\u0142o PPG?"
+    answers:
+    - "1929"
+    - "1883"
+    - "1999"
+    - "1834"
+    correctAnswer: 98
+  - question: "Jakie jest hasło PPG?"
+    answers:
+    - "Because You're Worth It"
+    - "The Happiest Place on Earth"
+    - "We protect and beautify the world"
+    - "Just Do It"
+    correctAnswer: 99
+  - question: "Wskaż poprawny skrót PPG:"
+    answers:
+    - "Pittsburgh Plate Glass"
+    - "Perfectly Painted Goods"
+    - "Proactive Protection Group"
+    - "Pioneering Paints Group"
+    correctAnswer: 97
+  - question: "Jak się nazywa sponsorowana przez PPG drużyna hokeja w USA?"
+    answers:
+    - "Detroit Red Wings"
+    - "Dallas Stars"
+    - "Philadelphia Flyers"
+    - "Pittsburgh Penguins"
+    correctAnswer: 100
+  - question: "W którym roku powstało PPG GBS Poland?"
+    answers:
+    - "kwiecień 2016"
+    - "czerwiec 2023"
+    - "Marzec 2018"
+    - "luty 2012"
+    correctAnswer: 99
+  - question: "W jakim mieście w Szwajcarii znajduje się centralna siedziba PPG na region EMEA?"
+    answers:
+    - "Bienne"
+    - "Zurych"
+    - "Lucerna"
+    - "Rolle"
+    correctAnswer: 100
+  - question: "W jakim budynku znajduje się PPG GBS?"
+    answers:
+    - "Green Towers"
+    - "Eclipse"
+    - "Nobilis Building"
+    - "Business Garden Wrocław"
+    correctAnswer: 99
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Śnieżka"
+    - "Jedynka"
+    - "Magnat"
+    - "Dekoral"
+    correctAnswer: 100
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Valspar"
+    - "Vidaron"
+    - "Tikkurila"
+    - "Rafil"
+    correctAnswer: 99
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Sigma"
+    - "Krylon"
+    - "Minwax"
+    - "Tytan"
+    correctAnswer: 97
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Hempel"
+    - "PPG Paints"
+    - "Jotun"
+    - "BASF"
+    correctAnswer: 98
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Interpon"
+    - "Hempaline"
+    - "Sikkens"
+    - "Comex"
+    correctAnswer: 100
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Varathane"
+    - "Nobiles"
+    - "FrogTape"
+    - "Dyrup"
+    correctAnswer: 100
+  - question: "Wybierz markę PPG"
+    answers:
+    - "Standox"
+    - "Johnstone's"
+    - "Cabot"
+    - "Day-Glo"
+    correctAnswer: 98

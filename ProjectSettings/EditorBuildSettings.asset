@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScreen.unity
+    guid: a4e48fb66cccc0449848edcf8826abea
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 54aa9fec7839ab843b62c4fea9e4ca84
+  - enabled: 1
+    path: Assets/Scenes/ControllerLayer.unity
+    guid: e8f24182f83896c4b8bfda9f12a409e9
+  - enabled: 1
+    path: Assets/Scenes/MAP.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/achigments.unity
+    guid: cb53921fd8deb0d4e94be92de2e9c44b
+  - enabled: 1
+    path: Assets/Scenes/info.unity
+    guid: a421f36559a56ca498344707ac03da31
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 1f7f7fe73d9f0ab4a926b64be2418538
+  - enabled: 1
+    path: Assets/Scenes/ColorMixingGame.unity
+    guid: 34686f171f417a147a612a4886ed548d
+  - enabled: 1
+    path: Assets/Scenes/PaintCatcher.unity
+    guid: f513a61f4c5b5ca4a96787d1d8f8de3b
+  - enabled: 1
+    path: Assets/Scenes/quiz.unity
+    guid: 0b44258c2c8eb6b4ebf9784934ab3b06
+  - enabled: 1
+    path: Assets/Scenes/ContainerStacker.unity
+    guid: 0cf440e64c624044f8b102af068c3f03
+  - enabled: 1
+    path: Assets/Scenes/quiz2.unity
+    guid: 844ea69bdaf224549b7d7d578812f251
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 90bce263e9d24b043a0e86a748028fc1, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3739715b9e742914094fd5067ebac908, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d62f8b7e90a52e4b8a5cb986b56a489, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 697b62e54a9417a40aaf84111b6b3420, type: 2}
+  m_UseUCBPForAssetBundles: 0

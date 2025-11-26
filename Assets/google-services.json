@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334526042981",
+    "project_id": "pim-app-96b8d",
+    "storage_bucket": "pim-app-96b8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334526042981:android:c554be44d09013c899078c",
+        "android_client_info": {
+          "package_name": "com.pim.com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334526042981-9k6uggkk34fim2op7t1u2s47p17scatu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pim.com.app",
+            "certificate_hash": "d1d9bb7f525f1ed8726cb8abd887c5603d6a4127"
+          }
+        },
+        {
+          "client_id": "334526042981-573293innsma2kim638u6gk70b38metr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjbCugAd3sXrJaJbggV5YttzVrSmanqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334526042981-573293innsma2kim638u6gk70b38metr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
