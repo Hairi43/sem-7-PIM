@@ -37,7 +37,7 @@ W strukturze kodu zastosowano standardowe wzorce projektowe. **Singleton** zosta
 
 ## Diagram przejść między scenami aplikacji
 
-
+<img width="381" height="731" alt="diagram2" src="https://github.com/user-attachments/assets/b38b63bc-0169-478f-8223-5697cad15ea1" />
 
 ---
 
