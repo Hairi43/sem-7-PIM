@@ -53,6 +53,6 @@ Proces uruchomienia projektu przebiega w następujących krokach:
 
 ---
 
-## Autorzy i Licencja
+## Autorzy
 
 Joanna Kuc, Michał Pawlica, Wincenty Wensker, Dawid Łapiński, Hubert Albanowski
